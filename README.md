@@ -5,10 +5,10 @@ Calculate the weighted word count and payment of translation projects.
 
 ![TM Matrix Calculator Screenshot](https://www.translators-tech-help.com/TM-Matrix-Calculator-Screenshot-Small.png)
 
-# Requirements
+## Requirements
 Since this is coded in PHP, you'll either need a [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))-type environment or a live hosting space with PHP support.
 
-## Description
+## Background Information
 In the Translation Industry, the most frequently used method of quantifying the work involved is word counting. With CAT (Computer-Assisted Translation) Tools, word counts take a totally new twist. Rather than simply counting total words in a file, CAT Tools allow for more in-depth statistics, such as Repetitions, 100% Matches, Context Matches, Fuzzy Matches and No Matches. All these provide a comprehensive report of a project’s translation status. In simpler words, we get a detailed picture of how much work is involved, or how much has been completed up to this point. These statistics are usually called a TM (Translation Memory) Analysis or a TM Log, and are provided with every translation project that requires the use of a CAT Tool.
 
 ### The Trados Discount Model
