@@ -2,7 +2,7 @@
 Calculate the weighted word count and payment of translation projects.
 
 **Screenshot:**
-![TM Matrix Calculator Screenshot](https://www.translators-tech-help.com/TM-Matrix-Calculator-Screenshot.png)
+![TM Matrix Calculator Screenshot](https://www.translators-tech-help.com/TM-Matrix-Calculator-Screenshot-Small.png)
 
 # Requirements
 Since this is coded in PHP, you'll either need a [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))-type environment or a live hosting space with PHP support.
