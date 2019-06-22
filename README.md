@@ -2,6 +2,7 @@
 Calculate the weighted word count and payment of translation projects.
 
 **Screenshot:**
+
 ![TM Matrix Calculator Screenshot](https://www.translators-tech-help.com/TM-Matrix-Calculator-Screenshot-Small.png)
 
 # Requirements
