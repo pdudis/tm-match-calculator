@@ -137,7 +137,7 @@ function clearFieldsWC() {
 
 <!-- Set up a table with 16 rows x 5 columns -->
 
-<!-- Set you CSS class here -->
+<!-- Set your CSS class here -->
 
  <table class="redTable">
 
