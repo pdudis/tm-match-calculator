@@ -3,7 +3,7 @@ Calculate the weighted word count and payment of translation projects.
 
 **Screenshot:**
 
-![TM Matrix Calculator Screenshot](https://www.translators-tech-help.com/TM-Matrix-Calculator-Screenshot-Small.png)
+![TM Matrix Calculator Screenshot](https://user-images.githubusercontent.com/4114200/63534659-61ab1600-c518-11e9-82b7-2d0ea7ed15fd.png)
 
 ## Requirements
 Since this is coded in PHP, you'll either need a [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))-type environment or a live hosting space with PHP support.
@@ -23,7 +23,7 @@ Basically, this discount model does the following: It assigns different charging
 
 Let me show you an example of such a TM Match Discount Model:
 
-![TM Match Discount Model](https://www.translators-tech-help.com/images/TM_Match_Discount_Model.png)
+![TM Match Discount Model](https://user-images.githubusercontent.com/4114200/63534775-a040d080-c518-11e9-9b5c-6743f2730bde.png)
 
 The above table is one of the popular models applied by translation agencies, but you’ll surely find a lot of variations to it.
 
@@ -33,7 +33,7 @@ You might be wondering why there’s a 0% charge for the Context Matches and not
 
 Now let’s see an actual example with a random word count and some money involved! We’ll assume a rate of $0.10 per word and I’ll use the full TM Match category breakdown. Also, I’ll add an extra column titled “Calculation” so I can show you the behind-the-scenes math involved:
 
-![TM Match Category Breakdown](https://www.translators-tech-help.com/images/TM_Match_Category_Breakdown.png)
+![TM Match Category Breakdown](https://user-images.githubusercontent.com/4114200/63534839-be0e3580-c518-11e9-9406-4e27a9bad66e.png)
 
 In the above example, we earn a total of $398.10 for this translation job. If the client hadn’t requested the use of the TM Match Discount model (or hadn’t required the use of a CAT Tool), the payment would’ve been $480.10 (4801 total words x $0.10 per word). But, you shouldn’t feel cheated here. You might be working with a total of 4801 words, but the CAT Tool has relieved you of a lot of work when dealing with the Fuzzy and 100% Matches, as well as with the Repetitions. Plus, the Context Matches are a zero effort thing, since you don’t have to touch them.
 
@@ -44,7 +44,7 @@ Weighted words have gained a lot of traction lately, and are provided along with
 
 Are you still with me? Let’s put this into an example that will clarify things a bit. I’ll use the same word count from the previous example:
 
-![TM Match Analysis](https://www.translators-tech-help.com/images/TM_Match_Analysis.png)
+![TM Match Analysis](https://user-images.githubusercontent.com/4114200/63534874-d1b99c00-c518-11e9-8682-815c56862460.png)
 
 So by applying the simple formula **[Money Charge Rate] x [Word Count]** per TM Match category we get a weighted word count per that TM Match category, and by adding them all up you obtain that precious single figure we’re talking about all this time.
 
