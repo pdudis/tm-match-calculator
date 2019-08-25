@@ -1,4 +1,4 @@
-# tm-match-calculator
+# TM Match Calculator
 Calculate the weighted word count and payment of translation projects.
 
 **Screenshot:**
@@ -59,6 +59,6 @@ Note that weighted words can only exist when using a CAT Tool. This should be ob
 
 ## Like what you see?
 
-If you find the **i6z Toolkit** interesting then why not buy me a coffee?
+If you find the **TM Match Calculator** interesting then why not buy me a coffee?
 
 [![BuyMeACoffee](https://user-images.githubusercontent.com/4114200/63639089-672f6a00-c698-11e9-9fac-3b6fcac47901.png)](https://www.buymeacoffee.com/ADYsLjqfi)
